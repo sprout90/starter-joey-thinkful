@@ -11,4 +11,4 @@ Provide practical application of mobile-first development techniques using _adva
 My focus as a student was to convert an existing page into a layout that has a mobile-first css implementation.
 
 ## Where Can I See It?
-To view the page, please click this [Coffee](https://sprout90.github.io/starter-joey-thinkful/) link.
+To view the page, please click this [Joey Thinkful](https://sprout90.github.io/starter-joey-thinkful/) link.
